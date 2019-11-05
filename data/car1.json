@@ -1,0 +1,70 @@
+87-154
+URL: 'https://www.donedeal.ie/cars-for-sale/ford-c-max-c-max-1-5-tdci-95ps-5-m6/20913984?campaign=3'
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Ford C-MAX C MAX 1.5 Tdci 95ps 5 M6",
+  "image": [
+    "https://donedeal.akamaized.net/ddimg/MjNjNzIyMzAxNWU4MTVhMjIxNDUwOGJlNGRmMDdiNzkf5qW_-7m40Gphs5IfOYiVaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RvbmVkZWFsLmllLXBob3Rvcy9waG90b18xMTgzNzE0OTJ8fHx8fHwzMDB4MjI1fHx8fHw=.jpeg",
+
+      "https://donedeal.akamaized.net/ddimg/MjNjNzIyMzAxNWU4MTVhMjIxNDUwOGJlNGRmMDdiNzkf5qW_-7m40Gphs5IfOYiVaHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RvbmVkZWFsLmllLXBob3Rvcy9waG90b18xMTgzNzE0OTJ8fHx8fHwzMDB4MjI1fHx8fHw=.jpeg",
+
+      "https://donedeal.akamaized.net/ddimg/YjY2N2M5NDIyMGVhOGFlZmI2Zjg0MzhkMGE0ZjAwMzB_N4rmI6cv7RDPmL_vMyv5aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RvbmVkZWFsLmllLXBob3Rvcy9waG90b18xMTgzNzE0OTR8fHx8fHwzMDB4MjI1fHx8fHw=.jpeg"
+
+   ],
+  "description": "Ford C-MAX C MAX 1.5 Tdci 95ps 5 M6
+
+This car is in perfect condition, full service history at CAB and will leave serviced and under warranty. We can help you choose the best purchase option on this car and can arrange finance on site.
+
+C.A.B. Motor Company was established in 1924 and appointed as a Ford Main Dealer in 1925. Since that time we have become Ford's flagship dealer in Cork and the biggest Ford Dealer in Munster.
+
+We understand that purchasing a new/used vehicle is often a significant investment and aim to make the process as smooth and enjoyable as possible.
+Genuine Offers, Genuine Savings. Finance Arranged and Trade-in's Welcome.
+
+Our Sales Department is open Mon-Fri: 9am-6pm &amp; Sat: 9.30am -5pm 16 (2016)
+
+Features:
+- Alloy Wheels
+- Leather Gear Lever
+- Rear Parking Sensors
+- Traction Control
+- Centralised locking
+- Radio/CD/MP3
+- Rear Electric Windows
+- Remote Boot Release
+- ABS
+- Heated Mirrors
+- ISO Fix
+- Passenger Airbag
+- Driver Airbag
+- Front Fog Lights
+- Power Steering
+- Electric Mirrors
+- Front Electric Windows
+- Media Connection
+- Multi-Function Steering Wheel
+- Auxiliary Jack Input
+- CD player
+- Adjustable steering column/wheel
+- Air Conditioning
+- Armrest
+
+Last updated: 13/02/2019",
+
+  "brand": {
+    "@type": "Thing",
+    "name": "Ford"
+  },
+
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "15500",
+    "itemCondition": "http://schema.org/UsedCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "DoneDeal.ie"
+    }
+  }
+}
